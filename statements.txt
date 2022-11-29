@@ -1,0 +1,37 @@
+-------- Statement of Completenesss --------
+
+Fill the below for each section with C for complete and P for partially complete.
+For example: A[C]
+
+A [C]
+B [P]
+C [C]
+D [ ]
+E [ ] 
+
+Comments:
+
+--------------------------------------------
+
+
+-------- Statement of Contribution --------
+
+Ignore this if in a group of 1.
+
+Fill the below with your student IDs, names, and contribution description.
+
+ID: n10469265
+name: Finaly Donald
+contribution: Part A, B
+
+ID: n1025421
+name: Tontrakun Chaimongkol
+contribution: Part A, B
+
+ID: n9550095
+name: Waldo Fouche
+contribution: Part A, C
+
+Comments:
+
+--------------------------------------------
